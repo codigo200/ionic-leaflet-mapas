@@ -1,1 +1,1 @@
-### :point_right: This starter repo has moved to the [ionic-team/starters](https://github.com/ionic-team/starters/tree/master/ionic-angular/official/blank) repo! :point_left:
+Aplicación Ionic que permite renderizar un mapa usando Leaflet, para ver la explicación visita https://codigo200.wordpress.com/2017/11/25/mapas-con-ionic-2-3-leaflet-y-marcadores/ , si te gusta regalame una estrella aquí.
